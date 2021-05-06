@@ -1,0 +1,15 @@
+{
+    "name": "サンプル",
+    "description": "",
+    "version": "v1.0",
+    "id": "UUIDが望ましい",
+
+    "icon": "imageURL",
+    "screenshots": [
+        "",
+        ""
+    ]
+
+    "js": "console.log('hello world');",
+    "css": "body{ background: red };",
+}
